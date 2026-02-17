@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://projectmakers.de/images/logo/pm_logo_red.svg" alt="ProjectMakers Logo" width="120"/>
-
-# ProjectMakers
+<img src="https://github.com/ProjectMakersDE/ProjectMakersDE/blob/main/media/ProjectMakers-Logo.png" alt="ProjectMakers Logo" width="768"/>
 
 ### Software- & Spieleentwicklung aus Leidenschaft
 
