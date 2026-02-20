@@ -40,6 +40,7 @@
 > | [**horizOn-SDK-Unity**](https://github.com/ProjectMakersDE/horizOn-SDK-Unity) | Complete backend SDK for Unity games — Auth, Cloud Saves, Leaderboards & more | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
 > | [**horizOn-SDK-Godot**](https://github.com/ProjectMakersDE/horizOn-SDK-Godot) | horizOn backend SDK for Godot Engine | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) |
 > | [**horizOn-Changelog**](https://github.com/ProjectMakersDE/horizOn-Changelog) | Public changelog and feedback hub for the horizOn platform | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
+> | [**horizOn-mcp**](https://github.com/ProjectMakersDE/horizOn-mcp) | MCP server for horizOn — AI coding assistants, live API tools & workflow prompts | [![npm](https://img.shields.io/badge/npm-horizon--mcp-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/horizon-mcp) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 >
 > ### Developer Tools
 >
