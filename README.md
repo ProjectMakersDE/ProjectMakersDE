@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-projectmakers.de-c41e1e?style=for-the-badge&logo=firefox&logoColor=white)](https://projectmakers.de)
 [![horizOn](https://img.shields.io/badge/horizOn-Backend_as_a_Service-e8873a?style=for-the-badge&logo=rocket&logoColor=white)](https://horizon.pm)
+[![InvoiceSync](https://img.shields.io/badge/InvoiceSync-Stripe_to_Lexware_Office-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicesync.de)
 
 </div>
 
@@ -41,6 +42,32 @@
 
 [![Start Free](https://img.shields.io/badge/Start_Free-horizon.pm-e8873a?style=for-the-badge&logo=rocket)](https://horizon.pm)
 [![Docs](https://img.shields.io/badge/Quickstart_Guide-Docs-444?style=for-the-badge&logo=bookstack)](https://eu.horizon.pm/quickstart)
+
+</div>
+
+---
+
+<div align="center">
+
+## InvoiceSync | Stripe invoices to Lexware Office
+
+**[InvoiceSync](https://invoicesync.de)** helps German businesses transfer monthly Stripe invoices to Lexware Office, also known as Lexoffice, through a controlled review workflow.
+
+</div>
+
+| | |
+|:--|:--|
+| **Monthly workflow** | Fetch and process invoices for a selected month |
+| **Review first** | Check contacts, amounts, tax treatment and exceptions before transfer |
+| **Draft mode** | Create supported documents as drafts for an additional control point |
+| **Fee reconciliation** | Keep Stripe fee documents and payouts visible as separate accounting events |
+
+<div align="center">
+
+> Start with a 14-day free trial or use the free month-end checklist without registration.
+
+[![Try InvoiceSync](https://img.shields.io/badge/Try_InvoiceSync-14_days_free-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicesync.de/register)
+[![Free Checklist](https://img.shields.io/badge/Free_Checklist-18_review_steps-2f855a?style=for-the-badge&logo=checkmarx&logoColor=white)](https://invoicesync.de/tools/stripe-lexware-monatsabschluss-checkliste?utm_source=github&utm_medium=organic_referral&utm_campaign=projectmakers_profile)
 
 </div>
 
