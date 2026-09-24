@@ -2,7 +2,9 @@
 
 <img src="https://github.com/ProjectMakersDE/ProjectMakersDE/blob/main/media/ProjectMakers-Logo.png" alt="ProjectMakers Logo" width="600"/>
 
-### Software- & Spieleentwicklung aus Leidenschaft
+### Individuelle Software, SaaS und Integrationen seit 2016
+
+ProjectMakers ist ein inhabergeführtes Softwarestudio aus Immenhausen. Wir entwickeln individuelle Anwendungen, SaaS-Produkte, Integrationen und Automatisierungen und begleiten sie bis in den stabilen Live-Betrieb. Die Zusammenarbeit erfolgt vollständig remote.
 
 [![Website](https://img.shields.io/badge/Website-projectmakers.de-c41e1e?style=for-the-badge&logo=firefox&logoColor=white)](https://projectmakers.de)
 [![horizOn](https://img.shields.io/badge/horizOn-Backend_as_a_Service-e8873a?style=for-the-badge&logo=rocket&logoColor=white)](https://horizon.pm)
