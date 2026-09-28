@@ -20,7 +20,7 @@ We build these products ourselves and operate them in production. They are the b
 
 <a href="https://invoicesync.de"><img src="media/readme/tile-invoicesync.svg" alt="InvoiceSync: Stripe invoices to Lexware Office" width="100%"></a>
 
-## Open source
+## Open source and free tools
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ We build these products ourselves and operate them in production. They are the b
 
 **For your Mac**
 
-- [STTBar](https://github.com/ProjectMakersDE/STTBar): dictation in the menu bar, talk instead of type
+- [STTBar](https://github.com/ProjectMakersDE/STTBar): dictation in the menu bar, talk instead of type (free, source available)
 - [MacZones](https://github.com/ProjectMakersDE/MacZones): window zones, close to 0 % CPU when idle
 
 **For servers**
