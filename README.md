@@ -1,122 +1,68 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="media/readme/hero-dark.svg">
+  <img alt="ProjectMakers: custom software, modernized legacy systems, AI integrated sensibly" src="media/readme/hero-light.svg" width="100%">
+</picture>
 
-<img src="https://github.com/ProjectMakersDE/ProjectMakersDE/blob/main/media/ProjectMakers-Logo.png" alt="ProjectMakers Logo" width="600"/>
+<p align="center">
+  <a href="https://projectmakers.de/en/services/software-development">Custom software</a> ·
+  <a href="https://projectmakers.de/en/services/legacy-modernization">Legacy modernization</a> ·
+  <a href="https://projectmakers.de/en/services/ai-solutions">AI and automation</a> ·
+  <a href="https://projectmakers.de/en/contact"><b>Talk to us</b></a>
+</p>
 
-### Individuelle Software, SaaS und Integrationen seit 2016
+## Products we run
 
-ProjectMakers ist ein inhabergeführtes Softwarestudio aus Immenhausen. Wir entwickeln individuelle Anwendungen, SaaS-Produkte, Integrationen und Automatisierungen und begleiten sie bis in den stabilen Live-Betrieb. Die Zusammenarbeit erfolgt vollständig remote.
+We build these products ourselves and operate them in production. They are the best reference we can give you.
 
-[![Website](https://img.shields.io/badge/Website-projectmakers.de-c41e1e?style=for-the-badge&logo=firefox&logoColor=white)](https://projectmakers.de)
-[![horizOn](https://img.shields.io/badge/horizOn-Backend_as_a_Service-e8873a?style=for-the-badge&logo=rocket&logoColor=white)](https://horizon.pm)
-[![InvoiceSync](https://img.shields.io/badge/InvoiceSync-Stripe_to_Lexware_Office-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicesync.de)
+<a href="https://horizon.pm"><img src="media/readme/tile-horizon.svg" alt="horizOn: game backend with fixed, transparent pricing" width="100%"></a>
 
-</div>
+<a href="https://bodyseasons.com"><img src="media/readme/tile-bodyseasons.svg" alt="BodySeasons: a calm, ad-free cycle tracker" width="100%"></a>
 
----
+<a href="https://invoicesync.de"><img src="media/readme/tile-invoicesync.svg" alt="InvoiceSync: Stripe invoices to Lexware Office" width="100%"></a>
 
-<div align="center">
+## Open source
 
-<h2><img src="https://raw.githubusercontent.com/ProjectMakersDE/ProjectMakersDE/main/media/horizOn-icon.svg" height="32" alt="horizOn">&nbsp;&nbsp;horizOn — Backend as a Service for Games & Apps</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[horizOn](https://horizon.pm)** is our managed backend and app server for games and apps — with fixed, transparent pricing built for solo devs to mid-sized teams.
+**For AI coding agents**
 
-</div>
+- [ai-agent-wiki](https://github.com/ProjectMakersDE/ai-agent-wiki): a wiki your agents read before they work
+- [horizOn-mcp](https://github.com/ProjectMakersDE/horizOn-mcp): horizOn docs and live API tools over MCP
 
-| | |
-|:--|:--|
-| **Authentication** | User login, registration & session management |
-| **Cloud Saves** | Store & sync player data across devices |
-| **Leaderboards** | Global rankings & surrounding entries |
-| **Remote Config** | Key-value configuration without app updates |
-| **Live-Ops** | News, gift codes & player feedback |
-| **Crash Reporting** | Automatic grouping, fingerprinting & regression detection |
-| **Pricing** | 100% fixed — no hidden fees, no overages |
-| **Global** | Low latency servers in EU, US & Asia |
+**For game developers**
 
-<div align="center">
+- horizOn SDK for [Unity](https://github.com/ProjectMakersDE/horizOn-SDK-Unity), [Godot](https://github.com/ProjectMakersDE/horizOn-SDK-Godot) and [Unreal](https://github.com/ProjectMakersDE/horizOn-SDK-Unreal)
+- [horizOn-simpleServer](https://github.com/ProjectMakersDE/horizOn-simpleServer): self-hostable PHP game backend
+- [Unity-PmPrefs](https://github.com/ProjectMakersDE/Unity-PmPrefs) and [Unity-AutoSave](https://github.com/ProjectMakersDE/Unity-AutoSave): small Unity editor tools
+- [YouTube-Tutorials](https://github.com/ProjectMakersDE/YouTube-Tutorials): the Unity project of our German video series
 
-![Unity](https://img.shields.io/badge/Unity-C%23-239120?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-C++-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![simpleServer](https://img.shields.io/badge/simpleServer-PHP-777BB4?style=flat&logo=php&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-> Test all features for free. Setup in 5 minutes. No credit card required.
+**For your Mac**
 
-[![Start Free](https://img.shields.io/badge/Start_Free-horizon.pm-e8873a?style=for-the-badge&logo=rocket)](https://horizon.pm)
-[![Docs](https://img.shields.io/badge/Quickstart_Guide-Docs-444?style=for-the-badge&logo=bookstack)](https://eu.horizon.pm/quickstart)
+- [STTBar](https://github.com/ProjectMakersDE/STTBar): dictation in the menu bar, talk instead of type
+- [MacZones](https://github.com/ProjectMakersDE/MacZones): window zones, close to 0 % CPU when idle
 
-</div>
+**For servers**
 
----
+- [EasySSHTunnelManager](https://github.com/ProjectMakersDE/EasySSHTunnelManager): SSH tunnels in a small Linux app
+- [wp-health-endpoint](https://github.com/ProjectMakersDE/wp-health-endpoint): health endpoint for WordPress
 
-<div align="center">
+**Guides**
 
-## InvoiceSync | Stripe invoices to Lexware Office
+- [legacy-software-abloesen](https://github.com/ProjectMakersDE/legacy-software-abloesen): replacing legacy software feature by feature (German)
 
-**[InvoiceSync](https://invoicesync.de)** helps German businesses transfer monthly Stripe invoices to Lexware Office, also known as Lexoffice, through a controlled review workflow.
+</td>
+</tr>
+</table>
 
-</div>
+## Work with us
 
-| | |
-|:--|:--|
-| **Monthly workflow** | Fetch and process invoices for a selected month |
-| **Review first** | Check contacts, amounts, tax treatment and exceptions before transfer |
-| **Draft mode** | Create supported documents as drafts for an additional control point |
-| **Fee reconciliation** | Keep Stripe fee documents and payouts visible as separate accounting events |
+Owner-led studio from Immenhausen, Germany, since 2016. We work remotely with companies in German or English, from the first concept to stable operation.
 
-<div align="center">
+<a href="https://projectmakers.de/en/contact"><img src="media/readme/badge-start.svg" alt="Start a project"></a>
 
-> Start with a 14-day free trial or use the free month-end checklist without registration.
-
-[![Try InvoiceSync](https://img.shields.io/badge/Try_InvoiceSync-14_days_free-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://invoicesync.de/register)
-[![Free Checklist](https://img.shields.io/badge/Free_Checklist-18_review_steps-2f855a?style=for-the-badge&logo=checkmarx&logoColor=white)](https://invoicesync.de/tools/stripe-lexware-monatsabschluss-checkliste?utm_source=github&utm_medium=organic_referral&utm_campaign=projectmakers_profile)
-
-</div>
-
----
-
-## Open Source Projects
-
-### horizOn SDKs & Tools
-
-| Repository | Description | Language |
-|:--|:--|:--|
-| [**horizOn-SDK-Unity**](https://github.com/ProjectMakersDE/horizOn-SDK-Unity) | Complete backend SDK for Unity games — Auth, Cloud Saves, Leaderboards & more | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
-| [**horizOn-SDK-Godot**](https://github.com/ProjectMakersDE/horizOn-SDK-Godot) | horizOn backend SDK for Godot Engine | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white) |
-| [**horizOn-SDK-Unreal**](https://github.com/ProjectMakersDE/horizOn-SDK-Unreal) | Official horizOn SDK for Unreal Engine 5.5+ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![New](https://img.shields.io/badge/NEW-e8873a?style=flat) |
-| [**horizOn-simpleServer**](https://github.com/ProjectMakersDE/horizOn-simpleServer) | Free, self-hostable PHP backend — open-source edition of horizOn | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![New](https://img.shields.io/badge/NEW-e8873a?style=flat) |
-| [**horizOn-mcp**](https://github.com/ProjectMakersDE/horizOn-mcp) | MCP server for AI coding assistants, live API tools & workflow prompts | [![npm](https://img.shields.io/badge/npm-horizon--mcp-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/horizon-mcp) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [**horizOn-Changelog**](https://github.com/ProjectMakersDE/horizOn-Changelog) | Public changelog and feedback hub for the horizOn platform | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
-
-### Developer Tools
-
-| Repository | Description | Language |
-|:--|:--|:--|
-| [**EasySSHTunnelManager**](https://github.com/ProjectMakersDE/EasySSHTunnelManager) | Simple Python tool to manage SSH tunnels with ease | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [**secureDataShare**](https://github.com/ProjectMakersDE/secureDataShare) | Secure data sharing utility | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [**python_status_server**](https://github.com/ProjectMakersDE/python_status_server) | Lightweight status monitoring server | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-
-### Unity Tools
-
-| Repository | Description | Language |
-|:--|:--|:--|
-| [**Unity-PmPrefs**](https://github.com/ProjectMakersDE/Unity-PmPrefs) | Enhanced PlayerPrefs replacement for Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
-| [**Unity-AutoSave**](https://github.com/ProjectMakersDE/Unity-AutoSave) | Automatic scene save & backup tool for Unity | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
-
----
-
-<div align="center">
-
-### Let's Connect
-
-[![Website](https://img.shields.io/badge/projectmakers.de-c41e1e?style=for-the-badge&logo=firefox&logoColor=white)](https://projectmakers.de)
-[![horizOn](https://img.shields.io/badge/horizon.pm-e8873a?style=for-the-badge&logo=rocket&logoColor=white)](https://horizon.pm)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProjectMakersDE)
-
-*Visit [projectmakers.de](https://projectmakers.de) to learn more about our services — software, games, AI & tools.*
-
----
-
-*Building games and tools with passion*
-
-</div>
+<sub>[Website](https://projectmakers.de/en) · [horizOn changelog](https://github.com/ProjectMakersDE/horizOn-Changelog) · [Imprint](https://projectmakers.de/imprint)</sub>
